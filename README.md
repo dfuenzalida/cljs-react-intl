@@ -12,14 +12,16 @@ yarn install
 
 ### Development
 
-Run in developmeent:
+Run in development mode:
 
 ```bash
 yarn run html
 yarn shadow-cljs watch app
 ```
 
-`shadow-cljs` will be installed in `node_modules/` when you run `yarn`.
+Wait for the `Build completed` message before opening the page in the browser.
+
+`shadow-cljs` will be installed in `node_modules/` when you run `yarn install`.
 
 `:dev-http` specifies that `target/` will be served at http://localhost:8080 .
 
