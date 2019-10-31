@@ -1,11 +1,14 @@
 
-BlueprintJS demo using [shadow-cljs](https://github.com/thheller/shadow-cljs)
+React-intl example using [shadow-cljs](https://github.com/thheller/shadow-cljs)
 ----
 
-### Screenshot
+### Dependencies
 
-![blueprintjs-cljs](https://user-images.githubusercontent.com/208068/66889581-cecaad00-ef97-11e9-9872-9a09a2b99d26.png)
+Install the dependencies with
 
+```bash
+yarn install
+```
 
 ### Development
 
